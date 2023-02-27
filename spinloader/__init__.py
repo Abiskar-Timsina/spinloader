@@ -2,7 +2,7 @@ from .colors import TextColor,ConsoleSettings
 from .spinloader import animate
 
 __AUTHOR__ = "Abiskar Timsina"
-__VERSION__ = "0.0.0.1"
+__VERSION__ = "0.0.1"
 __DESCRIPTION__=""" This is a project I've been working on over the weekend. It's a very simple project that'll show a spinloader for a running function. 
 It's really simple to use. Just use the @animate decorator above the function and It'll take care of the rest. I also tried to incorperate some niche features that i tend 
 to use. 
